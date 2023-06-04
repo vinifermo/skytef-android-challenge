@@ -9,7 +9,7 @@ IDE de sua preferência para desenvolvimento Android.
 JDK (Java Development Kit) instalado para desenvolvimento Java.
 Git instalado para versionamento de código.
 
-##Passos para clonar o projeto
+## Passos para clonar o projeto
 Siga as instruções abaixo para clonar e configurar o projeto em seu ambiente local:
 
 1. Abra o terminal do seu sistema operacional.
@@ -47,4 +47,4 @@ Siga as etapas abaixo para configurar e executar a aplicação Java:
 
 5. A aplicação será executada e estará pronta para uso. Siga as instruções na interface da aplicação para interagir com ela, inserindo dados e recebendo respostas.
 
-# Durante o desenvolvimento, foram adotadas boas práticas de programação, como Clean Code e tratamento de exceções. Certifique-se de seguir essas práticas ao trabalhar com o código.
+## Durante o desenvolvimento, foram adotadas boas práticas de programação, como Clean Code e tratamento de exceções. Certifique-se de seguir essas práticas ao trabalhar com o código.
