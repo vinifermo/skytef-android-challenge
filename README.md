@@ -6,7 +6,9 @@ Esse foi um desafio que envolveu a criação de duas aplicações: uma aplicaç�
 Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em seu ambiente de desenvolvimento:
 
 IDE de sua preferência para desenvolvimento Android.
+
 JDK (Java Development Kit) instalado para desenvolvimento Java.
+
 Git instalado para versionamento de código.
 
 ## Passos para clonar o projeto
