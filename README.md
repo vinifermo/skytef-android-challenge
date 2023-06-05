@@ -2,6 +2,8 @@
 
 Esse foi um desafio que envolveu a criação de duas aplicações: uma aplicação Java Android e uma aplicação Java (Spring Boot API). O objetivo foi avaliar o conhecimento em integração entre API e Android, ciclo de vida das Activitys Android, conceitos fundamentais da linguagem Java e boas práticas de programação.
 
+A ideia do app é o gerenciamento de uma Virtual Wallet (Carteira digital). Com ele, você pode adicionar, visualizar, editar e deletar transações com facilidade. Além disso, o aplicativo oferece a opção de salvar suas transações como um arquivo e mantém suas transações em cache para acesso rápido e offline.
+
 ## Pré-requisitos
 Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em seu ambiente de desenvolvimento:
 
